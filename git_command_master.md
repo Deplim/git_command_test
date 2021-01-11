@@ -5,7 +5,8 @@ remote test
 push test
 
 
-```
+```Bash
+
 git config --global user.email "내 이메일", git config --global user.name "내 이름"
 # 로그인 안해두면 commit 이 안된다는데 그렇지는 않았음. 차피 이거 안해도 push 할때 로그인 나옴.
 
