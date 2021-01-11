@@ -1,5 +1,5 @@
-# git_commad_test
-git commad 연습장
+# git_command_test
+git command 연습장
 
 ```
 이전까지는 git desktop 같은 툴을 써와서 커맨드 라인에서 git 을 제대로 사용해보지 않았다
